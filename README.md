@@ -12,7 +12,7 @@ This demo allows you to remotely set and swap a trophy as the prize from the ech
 # Steps
 * Open the Overworld scene in Assets/Scenes.
 * [Add the trophy model](https://docs.echo3d.co/quickstart/add-a-3d-model) from the Model folder to the echo3D cloud.
-![AddToCloudGIF2](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/1a93f297-1477-4715-8363-2c0116ab99fc) <br>
+ ![AddToCloudGIF](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/a37e7194-8a48-4bae-a3f2-d05d76b1e20d)<br>
 * [Add the API key and entry ID](https://docs.echo3d.com/unity/using-the-sdk) to the Trophy object in the Hierarchy through the Inspector on the echo3DHologram component. <br>
 ![APIKey](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/239cdfc8-d448-4003-a34a-3135483a49f0) <br>
 ![EntryID](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/fdbf2479-aa77-422a-ae47-408c2a57957a)<br>
