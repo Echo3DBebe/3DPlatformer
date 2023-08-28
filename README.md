@@ -28,6 +28,6 @@ Refer to our [documentation](https://docs.echo3d.com/unity) to learn more about 
 Feel free to reach out at [support@echo3D.com](support@echo3D.com) or join our [support channel on Slack](https://go.echo3d.co/join).
 
 # Screenshots
-![ezgif com-gif-maker](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/ce22b411-48d2-4c8f-b5f9-9a9e26ddfe64) <br>
-![GIFNewTrophy](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/b640b48d-e8c3-4bfa-b218-0546e23825ac) <br>
-![GIFOriginalCheese](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/516bc5a9-fa42-406c-b714-5e59cce1a7b4)
+![(https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/ce22b411-48d2-4c8f-b5f9-9a9e26ddfe64](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/blob/main/Screenshots/GIF.gif) <br>
+![(https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/b640b48d-e8c3-4bfa-b218-0546e23825ac](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/blob/main/Screenshots/NewTrophy.png) <br>
+![(https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/blob/main/Screenshots/OriginalCheese.png](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/blob/main/Screenshots/OriginalCheese.png)
