@@ -28,6 +28,6 @@ Refer to our [documentation](https://docs.echo3d.com/unity) to learn more about 
 Feel free to reach out at [support@echo3D.com](support@echo3D.com) or join our [support channel on Slack](https://go.echo3d.co/join).
 
 # Screenshots
-![ezgif com-gif-maker](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/fdaefe34-1fe7-4e0e-a292-35440f900956) <br>
-![GIFNewTrophy](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/dbabf2b2-0efa-4ad6-857e-818ed5d95784) <br>
-![GIFOriginalCheese](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/c537ea90-5529-481f-b20e-b058fd56301b) <br>
+![ezgif com-gif-maker](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/ce22b411-48d2-4c8f-b5f9-9a9e26ddfe64) <br>
+![GIFNewTrophy](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/b640b48d-e8c3-4bfa-b218-0546e23825ac) <br>
+![GIFOriginalCheese](https://github.com/echo3Dco/Unity-echo3D-Demo-3DPlatformer/assets/99516371/516bc5a9-fa42-406c-b714-5e59cce1a7b4)
